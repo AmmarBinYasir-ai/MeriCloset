@@ -161,6 +161,8 @@ This project is part of a BSc Computer Science Final Year Project.
 
 ## 👨‍💻 Author
 
-**Ammar Bin Yasir** - BSc Computer Science Student
+**Saad Amir** - BSc Computer Science Student
+
 ---
-Note: This is a Final Year Project (FYP) for BSc Computer Science degree, showcasing modern web development practices and technologies in the fashion e-commerce domain.
+
+**Note**: This is a Final Year Project (FYP) for BSc Computer Science degree, showcasing modern web development practices and technologies in the fashion e-commerce domain.
